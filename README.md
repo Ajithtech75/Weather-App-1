@@ -7,7 +7,17 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-NZyGhrIkANGEC_fIMmfmFvpCCcRAOR5qGg&usqp=CAU" height="200px"/> <br>
 
-A Simple Flutter App for Calculating BMI.
+A Simple Flutter App for Displaying Weather
+
+Very simple app with the following features.
+- Beautiful live animated weather icons.
+- Beautiful accent gradient colors.
+- Dark and Light theme support.
+- View your current location/any city weather details.
+- View the weather details for the next 48 hours/next 7 days.
+
+![Beautiful Flutter](/assets/animations/demo.gif "Beautiful Flutter")
+
 
 ##  Created By
 
